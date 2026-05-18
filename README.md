@@ -9,7 +9,6 @@ AI Image Classifier is a REST-based inference service that classifies uploaded i
 The platform supports:
 
 - Real-time image prediction
-- Batch image classification
 - GPU and CPU deployments
 - Docker and Kubernetes environments
 - SDK integration for Python and JavaScript
